@@ -1,2 +1,2 @@
 # Saeed
-My Name Is Saeed Software From Lahore. I am Student of Software Engineering.
+My Name Is Saeed Mughal From Lahore. I am Student of Software Engineering.
